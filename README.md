@@ -1,5 +1,8 @@
 # SOLID Design Priciples
 
+---
+
+<img src="https://github.com/Tahsin005/solid-design-priciples-cpp-implementation/blob/main/standardUml.png">
 
 ### **1. Single Responsibility Principle (SRP)**
 
@@ -83,6 +86,3 @@
 | ISP       | Interfaces are minimal; clients only use what they need.                   |
 | DIP       | High-level modules depend on abstractions, not concrete classes.           |
 
----
-
-<img src="https://github.com/Tahsin005/solid-design-priciples-cpp-implementation/blob/main/standardUml.png">
